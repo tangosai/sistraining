@@ -98,3 +98,108 @@ header .logo-menu .menu ul li a {
   background-color: #dc2626;
 }
 /* banner ends*/
+
+/*about start*/
+.about {
+  width: 100%;
+  height: auto;
+  padding: 100px 0px;
+}
+.about-content{
+	display: flex;
+}
+.heading {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+}
+.heading .line {
+  width: 80px;
+  height: 3px;
+  background: #d1d5db;
+  display: inline-block;
+  position: relative;
+  top: 8px;
+}
+.headingTags {
+  padding-left: 15px;
+}
+.heading h5 {
+  font-size: 15px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+.heading h3 {
+  font-size: 32px;
+  font-weight: 600;
+  width: 400px;
+}
+.about-content .content{
+	width: 95%;
+	position: relative;
+	top: 30px;
+}
+.about-content .content p{
+	color: #4B5563;
+	margin-bottom: 5px;
+}
+.about-content .content a{
+	color: #DC2626;
+	font-weight: 600;
+}
+/*about ends*/
+
+/*partner starts*/
+.partners{
+	width: 100%;
+	height: auto;
+	padding: 100px 0px
+}
+.partners-heading{
+	display: flex;
+	align-items: center;
+	justify-content: space-between
+}
+.partners-heading h3{
+	font-size: 32px;
+  font-weight: 600;
+	text-transform: uppercase;
+}
+.partners-heading .line{
+	width: 80%;
+  height: 3px;
+  background: #d1d5db;
+  display: inline-block;
+}
+.partnersImages{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-top: 30px;
+}
+/*partner ends*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
